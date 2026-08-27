@@ -1,0 +1,41 @@
+/**
+ * @name VGUICord (Catppuccin Mocha)
+ * @author dom1torii
+ * @description Previously discord16. VGUI inspired Discord theme.
+ * @website https://github.com/dom1torii/VGUICord
+ * @version 0.1.0
+*/
+
+@import url("https://dom1torii.github.io/VGUICord/src/css/main.css");
+
+/* --- Settings --- */
+* {
+  --font: "ArialPixel"; /* Change to "" for default font */
+  --rounded-avatars: true;
+  --rounded-servers: false;
+  --custom-status: true;
+  --custom-scrollbar: true;
+  --steam-logo: true;
+  --hide-avatar-deco: false;
+  --hide-nameplates: false;
+  --hide-profile-effects: false;
+  --hide-profile-frames: false;
+}
+
+/* Colors */
+:root {
+  --vguicord-bg: #1e1e2e;
+  --vguicord-secondary-bg: #181825;
+
+  --vguicord-accent: #b4befe;
+  --vguicord-secondary-accent: #89b4fa;
+
+  --vguicord-dark-border: #11111b;
+  --vguicord-light-border: #7f849c;
+
+  --vguicord-text: #cdd6f4;
+  --vguicord-secondary-text: #9399b2;
+
+  --vguicord-text-disabled: #11111b;
+  --vguicord-text-disabled-shadow: #6c7086 1px 1px;
+}

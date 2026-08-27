@@ -1,0 +1,41 @@
+/**
+ * @name VGUICord (Catppuccin Frappe)
+ * @author dom1torii
+ * @description Previously discord16. VGUI inspired Discord theme.
+ * @website https://github.com/dom1torii/VGUICord
+ * @version 0.1.0
+*/
+
+@import url("https://dom1torii.github.io/VGUICord/src/css/main.css");
+
+/* --- Settings --- */
+* {
+  --font: "ArialPixel"; /* Change to "" for default font */
+  --rounded-avatars: true;
+  --rounded-servers: false;
+  --custom-status: true;
+  --custom-scrollbar: true;
+  --steam-logo: true;
+  --hide-avatar-deco: false;
+  --hide-nameplates: false;
+  --hide-profile-effects: false;
+  --hide-profile-frames: false;
+}
+
+/* Colors */
+:root {
+  --vguicord-bg: #303446;
+  --vguicord-secondary-bg: #292c3c;
+
+  --vguicord-accent: #babbf1;
+  --vguicord-secondary-accent: #8caaee;
+
+  --vguicord-dark-border: #232634;
+  --vguicord-light-border: #838ba7;
+
+  --vguicord-text: #c6d0f5;
+  --vguicord-secondary-text: #949cbb;
+
+  --vguicord-text-disabled: #737994;
+  --vguicord-text-disabled-shadow: #232634 1px 1px;
+}
