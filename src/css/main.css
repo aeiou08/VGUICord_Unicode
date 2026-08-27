@@ -1,7 +1,7 @@
 /* Setup */
 * {
-  --vguicord-steam-logo: url(https://dom1torii.github.io/vguicord/src/assets/steam-logo.svg) !important;
-  --vguicord-steam-logo-text: url(https://dom1torii.github.io/vguicord/src/assets/steam-logo-text.png) !important;
+  --vguicord-steam-logo: url(https://dom1torii.github.io/VGUIcord/src/assets/steam-logo.svg) !important;
+  --vguicord-steam-logo-text: url(https://dom1torii.github.io/VGUIcord/src/assets/steam-logo-text.png) !important;
   --vguicord-box-shadow:
     0 -1px 0 var(--vguicord-light-border), 1px 0 0 var(--vguicord-dark-border),
     0 1px 0 var(--vguicord-dark-border), -1px 0 0 var(--vguicord-light-border);
