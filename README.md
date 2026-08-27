@@ -1,4 +1,4 @@
-# VGUICord
+# VGUICord (previously discord16)
 VGUI inspired theme for Discord.
 
 ## Palettes
