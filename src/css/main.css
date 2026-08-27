@@ -140,13 +140,13 @@
   initial-value: false;
 }
 
-@property --vguicord-status {
+@property --custom-status {
   syntax: "true | false";
   inherits: false;
   initial-value: true;
 }
 
-@property --vguicord-scrollbar {
+@property --custom-scrollbar {
   syntax: "true | false";
   inherits: false;
   initial-value: true;
