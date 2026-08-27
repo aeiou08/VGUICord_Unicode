@@ -11,7 +11,7 @@
 /* --- Settings --- */
 * {
   --font: "ArialPixel"; /* Change to "" for default font */
-  --rounded-avatars: true;
+  --rounded-avatars: false;
   --rounded-servers: false;
   --custom-status: true;
   --custom-scrollbar: true;
