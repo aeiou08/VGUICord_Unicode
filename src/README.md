@@ -5,23 +5,23 @@ VGUI inspired theme for Discord.
 Theme comes in 5 different palettes:
 
 ### Steam (default)
-![Steam Palette](https://github.com/user-attachments/assets/6e1398ee-c1a2-4e16-a033-dbea24f4931e)
+![Steam Palette](https://github.com/user-attachments/assets/fde70e2a-2886-43ab-a8e2-987789a45eea)
 
 <details>
   <summary><h3>Catppuccin Frappe</h3></summary>
-  <img src="https://github.com/user-attachments/assets/33c21826-5df0-40de-bc4c-8c91ecdbf172">
+  <img src="https://github.com/user-attachments/assets/6586a04f-0d54-4238-90a0-c0f2ff9faceb" />
 </details>
 <details>
   <summary><h3>Catppuccin Macchiato</h3></summary>
-  <img src="https://github.com/user-attachments/assets/92d3867b-ed8b-4768-8ef4-1f12acf000fd">
+  <img src="https://github.com/user-attachments/assets/a1cfaecc-b55b-4fdd-a9e5-0a9dbb0ff323" />
 </details>
 <details>
   <summary><h3>Catppuccin Mocha</h3></summary>
-  <img src="https://github.com/user-attachments/assets/f15563c4-b8b6-4adc-be40-3a80d01a1c8c">
+  <img src="https://github.com/user-attachments/assets/587f5113-bf1a-4fc0-914f-9933994a1759" />
 </details>
 <details>
   <summary><h3>Gruvbox</h3></summary>
-  <img src="https://github.com/user-attachments/assets/11c3d823-f988-4fc8-89b1-f0a3c6d33e94">
+  <img src="https://github.com/user-attachments/assets/0a619d02-5690-4522-9173-cacc3355c518" />
 </details>
 
 ## Install
