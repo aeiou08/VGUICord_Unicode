@@ -305,6 +305,8 @@ div[aria-label="Poll options"] > div, /* Poll option buttons */
 .linkButton__972a0, /* Home left menu buttons */
 :where(.outer_c0bea0).user-profile-sidebar.user-profile-sidebar-redesign, /* User profile sidebar */
 .bottomBar__0f481, /* Unread messages popup */
+.notice__6e2b9, /* Update and other notices */
+.button__6e2b9, /* Notice button */
 .visual-refresh .vc-plugins-info-card, /* Vencord base cards */
 .visual-refresh .vc-plugin-stats, /* Vencord plugin stats */
 .vc-card-primary, /* Vencord cards */
@@ -415,7 +417,8 @@ code, /* code */
 .scroller__629e4, /* Channels bar */
 .members_c8ffbb, /* Server members list */
 .sidebar__409aa, /* Settings sidebar */
-.sidebar__23e6b /* Server settings sidebar */ {
+.sidebar__23e6b, /* Server settings sidebar */
+.notice__6e2b9 /* Update and other notices */ {
   margin: 5px !important;
 }
 
