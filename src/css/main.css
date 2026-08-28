@@ -318,6 +318,7 @@ div[aria-label="Poll options"] > div, /* Poll option buttons */
 .popover_d6f39b, /* Streaming popover when hovering user in vc */
 .searchResultsWrap_a98f3b, /* Server messages search container */
 .searchResult__80bf8, /* Server messages search result */
+.container__16eb0, /* Server message search filters and history */
 .visual-refresh .vc-plugins-info-card, /* Vencord base cards */
 .visual-refresh .vc-plugin-stats, /* Vencord plugin stats */
 .vc-card-primary, /* Vencord cards */
@@ -375,6 +376,7 @@ code, /* code */
 .divider_d06995, /* Inbox message date separator */
 .separator_aa8da2, /* Server settings separator */
 .tabs__50387:after, /* VC connection separator */
+.divider__971b5, /* Server message search filters and history separator */
 .vc-divider /* Vencord dividers */ {
   height: 0 !important;
   background-color: transparent !important;
