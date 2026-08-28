@@ -45,9 +45,9 @@ To install the theme you will need to use a discord client that supports custom 
 To change settings you can either change them straight in the theme file or use QuickCSS if your client supports it.
 
 ### Font
-* set to `""` to use default font
-Variable: `--font`
-Possible values: `any`
+\* set to `""` to use default font  
+Variable: `--font`  
+Possible values: `any`  
 Default value: `https://dom1torii.github.io/VGUICord/src/css/main.css`
 
 ### Rounded avatars
