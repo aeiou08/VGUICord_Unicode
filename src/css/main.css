@@ -100,6 +100,12 @@
   ) !important;
   --reaction-border-reacted-default: var(--vguicord-accent) !important;
 
+  --custom-poll-style-vote-percentage: color-mix(
+    in srgb,
+    var(--vguicord-secondary-accent) 35%,
+    transparent
+  ) !important;
+
   --interactive-background-selected: var(
     --vguicord-secondary-accent
   ) !important;
