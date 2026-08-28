@@ -307,6 +307,8 @@ div[aria-label="Poll options"] > div, /* Poll option buttons */
 .bottomBar__0f481, /* Unread messages popup */
 .notice__6e2b9, /* Update and other notices */
 .button__6e2b9, /* Notice button */
+.upload_aa605f, /* Message attachment */
+.wrapper_f7ecac, /* Message attachment actions */
 .visual-refresh .vc-plugins-info-card, /* Vencord base cards */
 .visual-refresh .vc-plugin-stats, /* Vencord plugin stats */
 .vc-card-primary, /* Vencord cards */
@@ -578,7 +580,8 @@ button.button__67645 {
 /* Disable box shadow */
 .message_fd14e0, /* Delete message preview */
 :where(.outer_c0bea0).user-profile-sidebar.user-profile-sidebar-redesign, /* User profile sidebar */
-.bottomBar__0f481 /* Unread messages popup */ {
+.bottomBar__0f481, /* Unread messages popup */
+.wrapper_f7ecac /* Message attachment actions */ {
   box-shadow: none;
 }
 
