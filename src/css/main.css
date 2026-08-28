@@ -403,7 +403,8 @@ code, /* code */
 
 /* Vertical separator */
 .winButtons_c38106::before, /* Left of win buttons */
-.separator__841c8 /* Left of reply close button */ {
+.separator__841c8, /* Left of reply close button */
+.separator_f84418 /* Message hover popup separator */ {
   width: 0 !important;
   border-top: 0 !important;
   border-bottom: 0 !important;
