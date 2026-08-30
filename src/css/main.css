@@ -483,7 +483,9 @@ code, /* code */
 
 /* Fix channels bar going under the user panel */
 .container__2637a /* Channels bar container */ {
-  padding-bottom: 62px !important; /* User panel (56px) + border (1px) + margin (5px) */
+  padding-bottom: calc(
+    var(--custom-app-panels-height, 0) + var(--space-xs)
+  ) !important;
 }
 
 /* Match message search bar width with member list */
