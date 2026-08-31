@@ -804,7 +804,8 @@ button.button__67645 {
 }
 
 @container style(--hide-avatar-deco: true) {
-  .avatarDecorationContainer__44b0c {
+  [class*="avatarDecoration"],
+  img[class*="avatarDecoration"] {
     display: none !important;
   }
 }
