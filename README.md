@@ -1,5 +1,5 @@
-# VGUICord (previously discord16)
-VGUI inspired theme for Discord. Tries to mimic the UI used by Steam and Valve games in 90s-early 2000s.
+# VGUICord_Unicode
+(Fork of VGUICord) VGUI inspired theme for Discord. Tries to mimic the UI used by Steam and Valve games in 90s-early 2000s.
 
 ## Palettes
 Theme comes in 5 different palettes:
