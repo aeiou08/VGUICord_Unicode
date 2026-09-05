@@ -127,8 +127,8 @@
 }
 
 @font-face {
-  font-family: "ArialPixel";
-  src: url(https://raw.githubusercontent.com/dom1torii/vguicord/refs/heads/main/src/assets/ArialPixel.woff2)
+  font-family: "UnifontGNU";
+  src: url(https://raw.githubusercontent.com/aeiou08/vguicord_unicode/refs/heads/main/src/assets/UnifontGNU.woff2)
     format("woff2");
   font-weight: normal;
   font-style: normal;
